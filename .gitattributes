@@ -1,0 +1,15 @@
+# 批处理必须是 CRLF
+*.bat text eol=crlf
+*.cmd text eol=crlf
+
+# Python 与文档统一 LF
+*.py text eol=lf
+*.md text eol=lf
+*.html text eol=lf
+*.csv text eol=lf
+
+# 二进制
+*.exe binary
+*.ico binary
+*.jpg binary
+*.png binary

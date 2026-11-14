@@ -1,0 +1,4 @@
+﻿id,code,name,spec,quantity,company,last_updated,category,purchase_link
+1,04050010001,无线鼠标,罗技M170,5,示例科技,2026-01-10,月度采购物品,https://example.com/item/1
+2,04050010002,无线键盘,青柠三模,3,示例科技,2026-01-08,月度采购物品,
+3,,网线,超五类3米,20,示例科技,2025-12-20,非月度采购物品,

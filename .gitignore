@@ -1,0 +1,25 @@
+# ==== 个人数据（绝对不要上传）====
+inventory.csv
+records.csv
+record_images/
+备份/
+backup/
+*.bak
+
+# ==== 构建产物 ====
+build/
+*.pyc
+*.pyo
+__pycache__/
+*.log
+
+# dist 里只保留打包好的 exe
+dist/*
+!dist/喵数仓记.exe
+
+# ==== 编辑器 / 系统 ====
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
+.DS_Store

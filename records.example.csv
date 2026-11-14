@@ -1,0 +1,4 @@
+﻿id,type,item_id,code,name,spec,quantity,company,department,recipient,date,operation_date,notes,image_path
+3,restock,1,04050010001,无线鼠标,罗技M170,3,示例科技,,,2026-01-10,2026-01-10,补货一批,
+2,update,2,04050010002,无线键盘,青柠三模,1,示例科技,销售部,张三,2026-01-08,2026-01-08,新人入职领用,record_images\202601\无线键盘_青柠三模_20260108102030.jpg
+1,add,1,04050010001,无线鼠标,罗技M170,5,示例科技,,,2026-01-05,2026-01-05,首次入库,
